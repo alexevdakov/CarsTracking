@@ -1,0 +1,9 @@
+export const colors = {
+  PRIMARY_COLOR: '#6e6893',
+  SECONDARY_COLOR: '#f4f2ff',
+  BORDER_COLOR: '#c6c2de',
+  BORDER_HOVER_COLOR: '#8b83ba',
+  POSITIVE_COLOR: '#007f00',
+  NEGATIV_COLOR: '#d30000',
+  DARK_COLOR: '#25213b',
+};
